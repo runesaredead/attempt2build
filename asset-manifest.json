@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/attempt2build/static/css/main.e6c13ad2.css",
-    "main.js": "/attempt2build/static/js/main.b66058c7.js",
-    "static/js/488.8f04322c.chunk.js": "/attempt2build/static/js/488.8f04322c.chunk.js",
-    "index.html": "/attempt2build/index.html",
-    "main.e6c13ad2.css.map": "/attempt2build/static/css/main.e6c13ad2.css.map",
-    "main.b66058c7.js.map": "/attempt2build/static/js/main.b66058c7.js.map",
-    "488.8f04322c.chunk.js.map": "/attempt2build/static/js/488.8f04322c.chunk.js.map"
+    "main.css": "/build2attempt/static/css/main.e6c13ad2.css",
+    "main.js": "/build2attempt/static/js/main.a6e8ed3a.js",
+    "static/js/488.8f04322c.chunk.js": "/build2attempt/static/js/488.8f04322c.chunk.js",
+    "index.html": "/build2attempt/index.html",
+    "main.e6c13ad2.css.map": "/build2attempt/static/css/main.e6c13ad2.css.map",
+    "main.a6e8ed3a.js.map": "/build2attempt/static/js/main.a6e8ed3a.js.map",
+    "488.8f04322c.chunk.js.map": "/build2attempt/static/js/488.8f04322c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b66058c7.js"
+    "static/js/main.a6e8ed3a.js"
   ]
 }
